@@ -1,0 +1,15 @@
+---
+title: "task_1"
+author: "Mohsin"
+date: "2025-03-17"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+# This is a testing document
+
+```{r}
+print("Hello World!")
+```
+
